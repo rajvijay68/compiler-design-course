@@ -14,6 +14,13 @@ Programs
 -   [Count identifiers](count_identifiers.l)
 -   [Count characters,words,lines](count_chars_words_lines.l)
 -   [Replace one character with another](replace_character.l)
+-   Calculator
+    -   [lex](calculator.l)
+    -   [yacc](calculator.y)
 -   Infix to Postfix - 
     -   [lex](infix_to_postfix.l)
     -   [yacc](infix_to_postfix.y)
+-   a<sup>n</sup>b<sup>n</sup>
+    -   [lex](anbn.l)
+    -   [yacc](anbn.y)
+- [C macros to function](macros_to_function.l)

@@ -1,0 +1,9 @@
+int main(){
+    cout<<"Hello\n";
+
+    int x=3;
+
+    cout<<"Bye\n";
+
+    int y=2;
+}
