@@ -13,7 +13,9 @@ Programs
 -  [Prepend line number](line_num.l)
 -   [Count identifiers](count_identifiers.l)
 -   [Count characters,words,lines](count_chars_words_lines.l)
+-   [Count vowels](count_vowels.l)
 -   [Replace one character with another](replace_character.l)
+-   [Replace one word with another](replace_word.l)
 -   Calculator
     -   [lex](calculator.l)
     -   [yacc](calculator.y)
@@ -24,3 +26,8 @@ Programs
     -   [lex](anbn.l)
     -   [yacc](anbn.y)
 - [C macros to function](macros_to_function.l)
+- [for to while loop](for_to_while.l)
+- [C++ to C declaration](c_to_cpp_declarations.l)
+- [nested ifs]
+    - [lex](nested_ifs.l)
+    - [yacc](nested_ifs.y)
